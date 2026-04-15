@@ -100,14 +100,16 @@ The project includes an interactive Streamlit application where users can:
 ## Screenshots
 
 ### App Home
-![App Home](images/app-home.png)
+![App Home](images/app-home.jpg)
 
 ### Prediction Result
-![Prediction Result](images/App-Result_High payment_risk.png)
-![Prediction Result](images/App-Result_Low payment_risk.png)
+![Prediction Result](images/App-Result_High_payment_risk.jpg)
+
+### Prediction Result - Low Risk
+![Prediction Result](images/App-Result_Low_payment_risk.jpg)
 
 ### Model Results
-![Model Results](images/Model Result-ROC Curve.png)
+![Model Results](images/Model Result-ROC_Curve.jpg)
 
 ## Project Structure
 
