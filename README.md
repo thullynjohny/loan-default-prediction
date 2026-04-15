@@ -158,3 +158,4 @@ streamlit run app.py
 **Thully**  
 Toronto, Ontario, Canada  
 Data Analytics and Machine Learning Portfolio Project
+LinkedIn: [https://linkedin.com/in/thully](https://www.linkedin.com/in/thully-johny-012zyx/)
